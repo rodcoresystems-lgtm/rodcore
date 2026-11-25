@@ -1,0 +1,23 @@
+:root {
+  --cream: #fbf8f2;
+  --white: #ffffff;
+  --brown: #594226;
+  --gold: #ad764c;
+  --text: #62564c;
+  --beige-soft: #e8dccf;
+  --beige: #f4ece2;
+  --espresso: #2b1a0d;
+  --almond: #c6a788;
+  --terracotta: #d49063;
+  --rose-sand: #e6ceb7;
+
+  --font-title: 'Playfair Display', Georgia, serif;
+  --font-body: 'DM Sans', system-ui, sans-serif;
+
+  --radius: 18px;
+  --radius-sm: 12px;
+  --shadow: 0 12px 32px rgba(89, 66, 38, 0.1);
+  --header-h: 72px;
+  --container: 1180px;
+  --ease: cubic-bezier(0.22, 0.61, 0.36, 1);
+}
